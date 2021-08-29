@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: App-Module
+
+server:
+  port: 8001

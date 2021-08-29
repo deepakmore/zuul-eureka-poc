@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Auth-Module
+
+server:
+  port: 8002
